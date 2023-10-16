@@ -443,10 +443,10 @@ Cookie Statement
     font-size: 0.8rem;
 }
 
-#cookie-statement p {
+#cookie-statement p, #cookie-statement h4 {
     text-align: center;
     color: #FFF;
-}
+} 
 
 #cookie-statement button {
     background-color: #FFF;
